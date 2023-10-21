@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Pato
+  - Disparo
+  - limitesDelSector
+  - Fantasma
+  - ScoreManagerTag
+  - BalasHUD
+  - hudFantasma
+  - corazonHud
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 6
+  - 5
+  - 4
+  - 3
+  - 2
+  - 1
+  - 
+  - 
+  - fantasma
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Fondo
+    uniqueID: 3102008665
+    locked: 0
+  - name: Fondo2
+    uniqueID: 2082446895
+    locked: 0
+  - name: Fondo3
+    uniqueID: 981306181
+    locked: 0
+  - name: Fondo4
+    uniqueID: 2372475107
+    locked: 0
+  - name: Fondo5
+    uniqueID: 2981665667
+    locked: 0
+  - name: Fondo6
+    uniqueID: 2865235089
+    locked: 0
